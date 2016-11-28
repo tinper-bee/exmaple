@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button, InputGroup, FormControl, ControlLabel } from 'tinper-bee';
+import { Button, InputGroup, FormControl, ControlLabel , Alert, Badge,Checkbox,Form,Loadingstate,Pagination,RadioGroup,Switch,Tooltip } from 'tinper-bee';
 
 
 import './index.css';
